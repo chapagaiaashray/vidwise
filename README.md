@@ -138,7 +138,7 @@ What is the speaker's take on education reform? Provide timestamps to support.
 **Aashray Chapagai** – CS @ Sewanee  
 👨‍💻 Passionate about full-stack dev, AI, and impactful software
 
-📬 [Connect on LinkedIn](https://linkedin.com/in/chapagaiaashray)  
+📬 [Connect on LinkedIn](www.linkedin.com/in/aashray-chapagai-0741a4232)  
 
 
 ---

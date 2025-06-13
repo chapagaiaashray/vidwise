@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+git+https://github.com/openai/whisper.git
+yt-dlp
+transformers
+sentence-transformers
+pydantic
+numpy
+tqdm
+requests
+scikit-learn
+torch
+jinja2
+python-multipart

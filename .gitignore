@@ -1,0 +1,67 @@
+# === Python bytecode ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# === Virtual Environments ===
+venv/
+.venv/
+ENV/
+env/
+env.bak/
+
+# === Environment & config ===
+.env
+*.env
+*.local
+
+# === OS files ===
+.DS_Store
+Thumbs.db
+
+# === Audio & Model Artifacts ===
+data/audio/
+models/
+*.mp3
+*.wav
+
+# === Logs ===
+*.log
+
+# === Jupyter/Notebook cache ===
+.ipynb_checkpoints
+
+# === FastAPI reload artifacts ===
+*.sqlite3
+*.db
+
+# === PyCharm or VSCode settings (if any accidentally inside) ===
+.idea/
+.vscode/
+
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

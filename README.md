@@ -1,5 +1,5 @@
 
-# 🎥 VidWise: AI-Powered YouTube Companion
+# VidWise: AI-Powered YouTube Companion
 
 VidWise is a full-stack web app that enhances YouTube video understanding using **AI-powered summarization** and **natural language Q&A**.
 
@@ -9,17 +9,17 @@ VidWise is a full-stack web app that enhances YouTube video understanding using 
 
 ---
 
-## 🔍 Features
+## Features
 
-- 🎞️ **Auto Transcript Summarization**: Breaks video into digestible 5–10s segments
-- 🧠 **AI Chatbot**: Ask anything about the video – with contextual understanding
-- ⏱️ **Clickable Timestamps**: Jump directly to relevant moments
-- 🧵 **Persistent Chat History**: Scrollable, real-time conversation
-- 🎨 **Clean, Responsive UI**: Optimized for web & mobile
+- **Auto Transcript Summarization**: Breaks video into digestible 5–10s segments
+- **AI Chatbot**: Ask anything about the video – with contextual understanding
+- **Clickable Timestamps**: Jump directly to relevant moments
+- **Persistent Chat History**: Scrollable, real-time conversation
+- **Clean, Responsive UI**: Optimized for web & mobile
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Frontend         | Backend              | AI/NLP          | Others                  |
 |------------------|----------------------|------------------|--------------------------|
@@ -28,7 +28,7 @@ VidWise is a full-stack web app that enhances YouTube video understanding using 
 
 ---
 
-## 🚀 How It Works
+## How It Works
 
 1. **Paste YouTube URL**  
 2. Backend:
@@ -40,7 +40,7 @@ VidWise is a full-stack web app that enhances YouTube video understanding using 
 
 ---
 
-## 🖥️ Demo Screenshots
+## Demo Screenshots
 
 ### Starting Page
 ![Starting UI](assets/Starting_Page.png)
@@ -56,7 +56,7 @@ VidWise is a full-stack web app that enhances YouTube video understanding using 
 
 ---
 
-## 🧩 Project Structure
+## Project Structure
 
 ```bash
 vidwise-ai/
@@ -75,7 +75,7 @@ vidwise-ai/
 
 ---
 
-## 💡 Notable Implementation Highlights
+## Notable Implementation Highlights
 
 - 🧠 **LLM-Powered Summarization**  
   - Dynamically chunks transcript and asks GPT for bullet-style summaries.
@@ -91,7 +91,7 @@ vidwise-ai/
 
 ---
 
-## 📌 Local Setup
+## Local Setup
 
 ### 1. Backend (FastAPI)
 
@@ -120,25 +120,25 @@ Frontend runs at `localhost:5173`, Backend at `localhost:8000`
 
 ---
 
-## 📁 Sample Prompt (Chat):
+## Sample Prompt (Chat):
 
 ```
 What is the speaker's take on education reform? Provide timestamps to support.
 ```
 
-💬 Returns a well-structured answer + jumpable timestamp links like:
+Returns a well-structured answer + jumpable timestamp links like:
 ```
 "At 5:34, the speaker critiques the outdated structure... By 11:42, they propose a shift to..."
 ```
 
 ---
 
-## 🧠 Author
+## Author
 
 **Aashray Chapagai** – CS @ Sewanee  
-👨‍💻 Passionate about full-stack dev, AI, and impactful software
+Passionate about full-stack dev, AI, and impactful software
 
-📬 [Connect on LinkedIn](www.linkedin.com/in/aashray-chapagai-0741a4232)  
+[Connect on LinkedIn](www.linkedin.com/in/aashray-chapagai-0741a4232)  
 
 
 ---

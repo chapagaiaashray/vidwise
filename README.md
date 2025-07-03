@@ -138,8 +138,6 @@ Returns a well-structured answer + jumpable timestamp links like:
 **Aashray Chapagai** – CS @ Sewanee  
 Passionate about full-stack dev, AI, and impactful software
 
-[Connect on LinkedIn](www.linkedin.com/in/aashray-chapagai-0741a4232)  
-
 
 ---
 
